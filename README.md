@@ -1,4 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Rashi Arora</h1>
+<p align='center'>
+   <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profile"/> 
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rashi-arora-528025202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Rashi/" height="30" width="40" /></a>
