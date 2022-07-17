@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Rashi Arora</h1>
 <p align='right'>
-   <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profile"/> 
+   <img src="https://readme-typing-svg.herokuapp.com?color=e96443&size=40&width=900&height=80&lines=Welcome-to-My-Github-Profilee"/> 
   </p>
   
 <h3 align="left">Connect with me:</h3>
